@@ -1,64 +1,45 @@
-# 🚀 Welcome to NullSetBuilds
+# 🗂️ Project Portfolio Overview
 
-This organization is focused on building open, practical tools for automation, data management, and developer productivity. Below is a curated overview of our current and past projects.
-
----
-
-## 🔧 Active Projects
-
-### [🔁 automation-pipeline](https://github.com/YourOrg/automation-pipeline)
-> End-to-end automation of business workflows using n8n and Redis queues.
-
-- 🧱 Stack: Node.js, Docker, PostgreSQL
-- 🛠️ Status: MVP in progress
-- 📌 [Project Board](https://github.com/YourOrg/automation-pipeline/projects/1)
+Here’s a quick look at our active and completed projects at **NullSetBuilds** — spanning games, AI, mobile apps, and automation.
 
 ---
 
-### [📊 metrics-dashboard](https://github.com/YourOrg/metrics-dashboard)
-> Real-time dashboard using Supabase and Recharts.
-
-- 🌐 Built with: React + TailwindCSS + Supabase
-- 🚀 Live Demo: [demo.yourorg.com](https://demo.yourorg.com)
-- 📖 [Documentation](https://yourorg.github.io/metrics-dashboard)
-
----
-
-### [🧠 ai-pipeline](https://github.com/YourOrg/ai-pipeline)
-> LLM-powered data extraction & enrichment service using LangChain & LocalAI.
-
-- 🔁 Uses: ClickHouse, Neo4j, Ollama
-- 📄 [Transcription Workflow](https://github.com/YourOrg/ai-pipeline/blob/main/WORKFLOWS.md)
+### 🎲 [Binge-Games](https://github.com/orgs/NullSetBuilds/projects/7)  
+> Your one-stop, searchable catalog for board games, movies, video games, and card games — reimagined with **AI-generated drinking rules and themed beverages**.  
+**🗓 Timeline**: Jul 21, 2025 → Aug 31, 2025  
+**🚦 Status**: On Track  
+**🏷 Tags**: AI, Game Night, Fun, GPT  
 
 ---
 
-## 🗺️ Roadmap & Vision
-
-We're actively exploring:
-- 🔬 Self-hosted private AI stacks
-- 📡 Real-time API observability
-- 🔒 Developer-first infrastructure with zero trust principles
-
-See our [public roadmap](https://github.com/YourOrg/projects-overview/projects/1).
+### 🌆 [Sync-City](https://github.com/orgs/NullSetBuilds/projects/2)  
+> A **location-based mobile game** that gamifies city exploration. Players earn points by walking to real-world landmarks, restaurants, and bars while sharing progress in a community hub.  
+**🚦 Status**: In Progress  
+**🏷 Tags**: Mobile, AR, Gamification, Maps  
 
 ---
 
-## 📚 How to Contribute
-
-We welcome thoughtful contributions:
-- Clone & fork repos
-- Submit pull requests
-- Open issues or discussions
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+### 🧠 [Grace](https://github.com/orgs/NullSetBuilds/projects/5)  
+> A powerful **voice assistant platform** inspired by Alexa, enhanced with AI tools and designed for a future of 3D interactive personas.  
+**🚦 Status**: In Progress  
+**🏷 Tags**: AI Assistant, Voice Interface, 3D Avatar, Open Source  
 
 ---
 
-## 🌐 Learn More
-
-- 📘 Docs site: [yourorg.github.io](https://yourorg.github.io)
-- 🧭 Organization: [github.com/YourOrg](https://github.com/YourOrg)
+### 📊 [BA-Bot](https://github.com/orgs/NullSetBuilds/projects/3)  
+> An **Agentic AI** system for Business Analyst workflows, designed to assist in documenting, validating, and coordinating automation solution projects.  
+**🚦 Status**: In Development  
+**🏷 Tags**: RPA, Agentic AI, Process Mining, Automation  
 
 ---
-*© 2025 Your Org Name – All rights reserved.*
 
+### 🗣️ [Project-Plato](https://github.com/orgs/NullSetBuilds/projects/4)  
+> A “**talking heads**” bot that simulates theological and philosophical debates between famous historical figures. Listeners can ask questions via Discord or YouTube, triggering dynamic AI-driven discussions.  
+**🟢 Status**: Completed  
+**🗓 Timeline**: Jul 10, 2025 → Nov 20, 2025  
+**🏷 Tags**: GPT, Philosophy, YouTube, Character AI  
+
+---
+
+### 🛠️ [Other Internal Projects](https://github.com/NullSetBuilds?tab=repositories)  
+We’re also working on internal automation stacks, dev tools, and experimental builds — check the full repo list for more.
